@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/mfarhansalam/farhan/main/farhan.gif" /></a>
+<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/mfarhansalam/mfarhansalam/main/farhan.gif" /></a>
 
 
 
@@ -11,17 +11,17 @@
 
 
 
-<b>Connect With Me:</b> <a href="https://samirpaul1.github.io/link/"> <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/connect.gif" height="31"> </a>
+<b>Connect With Me:</b> <a href="https://samirpaul1.github.io/link/"> <img src="https://raw.githubusercontent.com/mfarhansalam/mfarhansalam/main/assets/connect.gif" height="31"> </a>
 
 
-[<img align="left" alt="Samir | LinkedIn" width="22px" src="https://raw.githubusercontent.com/mfarhansalam/farhan/main/assets/linkedin.png" />][linkedin]
+[<img align="left" alt="Samir | LinkedIn" width="22px" src="https://raw.githubusercontent.com/mfarhansalam/mfarhansalam/main/assets/linkedin.png" />][linkedin]
 
 
 <br />
 
 
 
-<a href="#"><img width="100%" src="https://raw.githubusercontent.com/mfarhansalam/farhan/main/assets/neon-line.gif" /></a>
+<a href="#"><img width="100%" src="https://raw.githubusercontent.com/mfarhansalam/mfarhansalam/main/assets/neon-line.gif" /></a>
 
 
 
