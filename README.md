@@ -4,10 +4,8 @@
 
 <b>About Me:</b>👨🏻‍💻&nbsp; 
 
-  🎓 &nbsp;I'm currently studying Information System Engineering at Universiti Teknologi Mara, Melaka (UiTM).\
-  💡 &nbsp;Some technologies I enjoy working with include *PHP • MySQL • Git • HTML5 • CSS • C# • Python*.\
-  🌱 &nbsp;I'm on track for learning more about *Algorithms • Software Development • Systems Design*.\
-  ✉️ &nbsp;You can shoot me an email at *muhdfarhan7780@gmail.com*! I'll try to respond as soon as I can. 
+
+  
 
 
 
